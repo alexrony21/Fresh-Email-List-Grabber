@@ -1,0 +1,10 @@
+Fresh Email List Grabber
+This tool will grab fresh emails only.Insane grabbing speed you can grab 1M email list within 4 minutes.
+This tool support right now 4 domains only:
+	1. Yahoo.com
+	2. Hotmail.com
+	3. Gmail.com
+	4. Aol.com
+More are coming soon.
+If you wanna buy this tool contact me via Telegram .
+Telegram : @alexrony21
